@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="com.pany.AppTheme" immediate="true">
+  <implementation class="com.pany.AppTheme"/>
+  <service>
+    <provide interface="com.vaadin.osgi.resources.OsgiVaadinTheme"/>
+  </service>
+</component>
