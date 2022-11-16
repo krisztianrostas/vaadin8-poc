@@ -1,7 +1,7 @@
 # vaadin8-poc
 
 1) Create Vaadin sample project
-
+```
 mvn archetype:generate \
    -DarchetypeGroupId=com.vaadin \
    -DarchetypeArtifactId=vaadin-archetype-liferay-portlet \
@@ -9,7 +9,7 @@ mvn archetype:generate \
    -DgroupId=com.pany \
    -DartifactId=vaadin-test-portlet \
    -Dversion=0.1
-
+```
 2) Changes in pom.xml
 
 vaadin.plugin.version 8.17.0
